@@ -2,4 +2,4 @@ Este es mi primer archivo en GitHub!
 GitHub es genial
 Me gusta mucho GitHub
 Quiero probar esto, pero no estoy seguro
-Me gusta mucho azul
+Me gusta mucho azul, pero también creo que el amarillo es un color muy bonito
